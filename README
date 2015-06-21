@@ -1,0 +1,3 @@
+Use /tab to complete input on console with appropriate word in custom dictionary.
+
+c++ with GNU readline library, reference: http://cc.byexamples.com/2008/06/16/gnu-readline-implement-custom-auto-complete/
